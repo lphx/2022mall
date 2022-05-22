@@ -16,6 +16,10 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>spring-cloud-alibaba-nacos-sidecar-demo</module>
+        <module>mall-user-consumer-demo</module>
+        <module>mall-user</module>
+        <module>mall-order</module>
+        <module>mall-common</module>
     </modules>
 
 
